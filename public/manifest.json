@@ -1,0 +1,26 @@
+{
+  "short_name": "Jurident",
+  "name": "JURIDENT - AI-Powered Legal Drafting",
+  "icons": [
+    {
+      "src": "Jurident-Logo-bottom.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "Jurident-Logo-bottom.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Jurident-Logo-bottom.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "description": "Jurident provides you with exclusive access to AI-powered legal drafting, which assists in generating accurate contracts, petitions, and legal documents."
+}
